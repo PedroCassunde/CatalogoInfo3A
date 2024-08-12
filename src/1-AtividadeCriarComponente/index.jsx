@@ -5,7 +5,8 @@
 export default function Home() {
     return (
         <div>
-            <h1>Livros de Programação</h1>
+            <h1>Álbuns musicais</h1>
+            <p>Um catálogo com os melhores álbuns de música da história</p>
         </div>
     );
 }
